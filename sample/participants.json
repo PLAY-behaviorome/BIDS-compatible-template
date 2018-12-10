@@ -1,0 +1,93 @@
+{
+  "participant_id": {
+    "LongName": "Lab-specific participant identifier",
+    "Description": "",
+    "Levels": "",
+    "Units": "",
+    "TermURL": ""
+  },
+  "vol_id": {
+    "LongName": "Databrary volume identifier number",
+    "Description": "",
+    "Levels": "",
+    "Units": "",
+    "TermURL": ""
+  },
+  "slot_id": {
+    "LongName": "Databrary slot/session identifier number",
+    "Description": "",
+    "Levels": "",
+    "Units": "",
+    "TermURL": ""
+  },
+  "birth_date": {
+    "LongName": "",
+    "Description": "",
+    "Levels": "",
+    "Units": "",
+    "TermURL": ""
+  },
+  "test_date": {
+    "LongName": "",
+    "Description": "",
+    "Levels": "",
+    "Units": "",
+    "TermURL": ""
+  },
+  "age": {
+    "LongName": "",
+    "Description": "",
+    "Levels": "",
+    "Units": "years",
+    "TermURL": ""
+  },
+  "gender": {
+    "LongName": "",
+    "Description": "",
+    "Levels": "",
+    "Units": "years",
+    "TermURL": ""
+  },
+  "ethnicity": {
+    "LongName": "",
+    "Description": "",
+    "Levels": "",
+    "Units": "years",
+    "TermURL": ""
+    },
+  "race": {
+    "LongName": "",
+    "Description": "",
+    "Levels": "",
+    "Units": "years",
+    "TermURL": ""
+  },
+  "gestational_age": {
+    "LongName": "",
+    "Description": "",
+    "Levels": "",
+    "Units": "weeks",
+    "TermURL": ""
+  },
+  "disability": {
+    "LongName": "",
+    "Description": "",
+    "Levels": "",
+    "Units": "",
+    "TermURL": ""
+  },
+  "language": {
+    "LongName": "",
+    "Description": "",
+    "Levels": "",
+    "Units": "",
+    "TermURL": ""
+  },
+  "site_id": {
+    "LongName": "PLAY project site",
+    "Description": "",
+    "Levels": "",
+    "Units": "",
+    "TermURL": ""
+  }
+}

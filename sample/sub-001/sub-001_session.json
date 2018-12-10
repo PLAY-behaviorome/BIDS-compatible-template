@@ -1,0 +1,10 @@
+{
+  "session_id": {
+    "LongName": "Session identifier",
+    "Description": "Study-specific session identifier used across all participants"
+  },
+  "slot_id": {
+    "LongName": "Databrary session/slot identifier number",
+    "Description": "The Databrary-unique slot identifier number assigned by the Databrary system after the data are uploaded."
+  }
+}
