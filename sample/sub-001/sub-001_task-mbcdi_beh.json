@@ -1,0 +1,26 @@
+{
+  "measure_name": "MacArthur-Bates Communicative Development Inventory",
+  "domain": "language",
+  "URL": "https://mb-cdi.stanford.edu/",
+  "age_group": {
+    "LongName": "The target child's age group",
+    "Description" : "Age group of the target child at the time of data collection--either 12 mos, 18 mos, or 24 mos",
+    "Levels": ["12", "18", "24"],
+    "Units": "months",
+    "TermURL": ""
+  },
+  "target_language": {
+    "LongName": "Target language for vocabulary items",
+    "Description" : "The language in which the requested vocabulary item is used.",
+    "Levels": ["English", "Spanish"],
+    "Units": "",
+    "TermURL": ""
+  },
+  "instrument": {
+    "LongName": "The instrument used.",
+    "Description" : "The project uses English short-form of the MB-CDI, the Spanish short-form of the MB-CDI, or a custom supplemental list.",
+    "Levels": ["English", "Spanish"],
+    "Units": "",
+    "TermURL": ""
+  }
+}

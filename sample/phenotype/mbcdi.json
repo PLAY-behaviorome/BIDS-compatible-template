@@ -1,0 +1,20 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "MacArthur-Bates Communicative Development Inventory )MB-CDI",
+    "TermURL": ""
+  },
+  "variable_1": {
+    "Description": "",
+    "Levels": {
+      "1": "YES",
+      "2": "NO"
+    }
+  },
+  "variable_2": {
+    "Description": "",
+    "Levels": {
+      "1": "YES",
+      "2": "NO"
+    }
+  }
+}

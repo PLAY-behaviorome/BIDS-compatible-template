@@ -1,10 +1,20 @@
 {
+  "volume_id": {
+    "LongName": "Volume identifier",
+    "Description" : "An integer assigned by Databrary that refers to a volume or dataset in which one or more sessions/slots are collected",
+    "Levels": "",
+    "Units": "",
+    "TermURL": ""
+    },
   "session_id": {
     "LongName": "Session identifier",
-    "Description": "Study-specific session identifier used across all participants"
+    "Description": "Study-specific session identifier (integer) used across all participants",
+    "Levels": "",
+    "Units": "",
+    "TermURL": ""
   },
   "slot_id": {
     "LongName": "Databrary session/slot identifier number",
-    "Description": "The Databrary-unique slot identifier number assigned by the Databrary system after the data are uploaded."
+    "Description": "The Databrary-unique slot identifier integer assigned by the Databrary system after the data are uploaded."
   }
 }
